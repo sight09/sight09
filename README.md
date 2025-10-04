@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Amanuel Alemu Zewdu  
-
+<h1 align="center"># 👋 Hey there, I'm Amanuel Alemu Zewdu  
+<h3 align="center">🚀 A passionate Frontend Developer from Ethiopia 🇪🇹 | MERN Stack Explorer</h3>
 🎓 **3rd-year Computer Science Student** | 💻 **Future Top CS Performer** | 🚀 **Hackathon Enthusiast & Builder**  
 
 I’m passionate about turning ideas into real-world applications.I love solving problems with **clean code and scalable solutions**.  
