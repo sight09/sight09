@@ -1,5 +1,16 @@
 <h1 align="center"># 👋 Hey there, I'm Amanuel Alemu Zewdu  
-<h3 align="center">🚀 A passionate Frontend Developer from Ethiopia 🇪🇹 | MERN Stack Explorer</h3>
+<h3 align="center">🎓 3rd-year Computer Science Student | 🚀 A passionate Frontend Developer from Ethiopia 🇪🇹 | MERN Stack Explorer | AI Enthusiast </h3>
+
+ <p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=sight09&label=Profile%20views&color=0e75b6&style=flat" alt="sight09" />
+</p>
+
+- 🔭 I’m currently working on Web Development Projects
+- 🌱 I’m currently learning MERN Stack Development
+- 👯 I’m passionate about collaborating on Open Source projects that tackle real-world challenges using Frontend and AI technologies.
+- 🤔 I’m looking for help with learning more about AI development and applying it in real-world projects.
+- 📫 How to reach me:zeamanuel09@gmail.com
+  
 🎓 **3rd-year Computer Science Student** | 💻 **Future Top CS Performer** | 🚀 **Hackathon Enthusiast & Builder**  
 
 I’m passionate about turning ideas into real-world applications.I love solving problems with **clean code and scalable solutions**.  
@@ -60,15 +71,7 @@ I’m passionate about turning ideas into real-world applications.I love solving
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 <!--
