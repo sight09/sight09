@@ -68,8 +68,10 @@
 -->
 <p>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sight09&layout=compact&theme=tokyonight" />
+  
   ✨*“Code is not just about solving problems, it’s about creating opportunities.”* ✨
- 
+
+
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=sight09&show_icons=true&theme=tokyonight" />
 </p>
 <br/><br/><br/><br/><br/><br/>
