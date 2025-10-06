@@ -1,13 +1,14 @@
-<h1 align="center">👋 Hey there, I'm Amanuel Alemu Zewdu  
+<h1 align="center">Hey there, I'm Amanuel Alemu Zewdu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h3 align="center">🎓 3rd-year Computer Science Student from Ethiopia 🇪🇹  | 🚀 A passionate Frontend Developer | MERN Stack Explorer | AI Enthusiast </h3>
- 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
+ <img align="right" alt="Coding" width="200" hight="500"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJtZmY3aDV1amN4aWtsM2doYm1qNHZnd3V4ZGprdHc1OTBtdXY2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif">
+ 
+  <p align="left">
+    <img align="center" src="https://komarev.com/ghpvc/?username=sight09&label=Profile%20views&color=0e75b6&style=flat" alt="sight09" />
+  </p>
 
- <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=sight09&label=Profile%20views&color=0e75b6&style=flat" alt="sight09" />
-</p>
 
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning MERN Stack Development
@@ -67,11 +68,14 @@
 -->
 <p>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sight09&layout=compact&theme=tokyonight" />
+
+  ✨*“Code is not just about solving problems, it’s about creating opportunities.”* ✨
+
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=sight09&show_icons=true&theme=tokyonight" />
 </p>
 <br/><br/><br/><br/><br/><br/>
 
-✨ *“Code is not just about solving problems, it’s about creating opportunities.”* ✨   
+
 
 ---
 
